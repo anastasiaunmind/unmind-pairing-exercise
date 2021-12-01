@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders textarea 1`] = `
+<div>
+  <textarea
+    class="sc-bdnxRM eJmVDo"
+    placeholder="placeholder here"
+    rows="10"
+  />
+</div>
+`;

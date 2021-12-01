@@ -1,0 +1,11 @@
+{
+    "baseUrl": "http://localhost:3000/",
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "screenshotOnRunFailure": false,
+    "video": false,
+    "videoUploadOnPasses": false,
+    "scrollBehavior": "center",
+    "experimentalStudio": true,
+    "retries": 0,
+    "chromeWebSecurity": false
+  }
